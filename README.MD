@@ -4,7 +4,7 @@ This API is created by me for build my personal project about rooming house e-co
 
 ## Built With
 
-[![Go/Golang](https://img.shields.io/badge/Golang-1.20-cyan.svg?style=rounded-square)](https://go.dev/)
+[![Go/Golang](https://img.shields.io/badge/Golang-1.23.2-cyan.svg?style=rounded-square)](https://go.dev/)
 [![Gin](https://img.shields.io/badge/Gin-v.1.10-blue.svg?style=rounded-square)](https://gin-gonic.com/docs/)
 [![GORM](https://img.shields.io/badge/Gorm-v.1.25-blue.svg?style=rounded-square)](https://gorm.io/)
 
